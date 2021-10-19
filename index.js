@@ -4,7 +4,7 @@ console.log(desc.innerHTML);
 const features = [
   " snappy",
   " breezy",
-  "n uniterupted",
+  "n uninterrupted",
   "n unlimited",
   " blazing fast",
 ];
